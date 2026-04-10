@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preset version="4" progName="Default" currentPresetFilePath="Default.preset" currentPresetFileRoot="1" MIDIInputDefault="1" MIDIOutputDefault="1" MIDIProgramChangeChannel="-1" cycleNextPrevPresetInBank="0" midiOutForProgramChangeEnabled="0" midiOutForBankSelectEnabled="0">
+    <MIDIController.meta locked="0"/>
+    <MIDINextPresetSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDIPrevPresetSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDINextBankSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <MIDIPrevBankSetting channel="0" number="0" midiEnabled="0" type="CC"/>
+    <inputParams count="15" p0="0" p1="9" p2="7" p3="6" p4="0" p5="10" p6="6" p7="0" p8="3" p9="0" p10="12" p11="0" p12="0" p13="0" p14="1"/>
+    <inputStrings count="2" s0="%FACTORY_SCRIPTS_PATH%/default.x64" s1=""/>
+    <internalDSPState/>
+    <outputParams/>
+    <model/>
+    <GUI version="1" useDefault="1" skinZoom="1" followHostZoom="1" changedSincePresetLoaded="0">
+        <skin version="2">
+            <state version="5">
+                <params pCount="4">
+                    <p0 name="controls_gen_enabled" value="0"/>
+                    <p1 name="global_opacity" value="100"/>
+                    <p2 name="skin_scanner_enabled" value="0"/>
+                    <p3 name="upload_script_wizard_enabled" value="0"/>
+                </params>
+                <strings sCount="4">
+                    <s0 name="CONTROLS_GEN_DRAFT" value=""/>
+                    <s1 name="CONTROLS_GEN_PARAMS" value=""/>
+                    <s2 name="SKIN_SCANNER" value=""/>
+                    <s3 name="SKIN_SCANNER_MODE" value="menu::Knobs"/>
+                </strings>
+            </state>
+        </skin>
+    </GUI>
+</Preset>
